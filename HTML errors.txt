@@ -1,0 +1,56 @@
+Error: Expected <body>(this has been sorted??????)
+		<h1>The pine trees of the world.</h1>
+		<h2>Featuring Kijabe</h2>
+		<p class="summary">
+			Pine trees belong to a family of trees called <strong>conifer</strong>.
+		</p>
+
+		<h2>Geographical Distribution</h2>
+		<p class="article description" id="pine">
+			Most regions of the Northern hemisphere host some native species of pines. <a class="note" href="https://en.wikipedia.org/wiki/pine">More info</a>. This doesn't mean that pine trees do not grow in the southern hemisphere.<br>
+			Take <em>Kijabe</em> for example.
+		</p>
+
+		<h2>Why Kijabe</h2>
+		<p class="article description">
+			Kijabe is in the Sounthern Hemisphere, but has a diverse population of pine trees.
+		</p>
+		<h4>Is this weird?</h4>
+		<p class="article short-note">Not exactly.</p>
+		<p class="article description">
+			Weird explanation: Geographically speaking, the earth rotates on a tilted axis, which means that for almost half of the day, Kijabe is in the Northern Hemisphere (at least if we consider the cosmic plane).
+		</p>
+		<p>
+			Really, though, we started by saying that <a href="#pine">most pine trees grow on the Northern Hemisphere</a>. But does not mean that no pine trees grow in the southern hemisphere.
+		</p>
+
+	
+
+</body> to have CSS {"color":"rgb(0, 128, 0)","text-align":"center","padding":"10px"} 
+ but found {"color":"rgb(0, 0, 0)"}
+    at https://replbox.repl.it/public/replbox_web_project.0cb74d55e36ba66c4ff5.bundle.js:740:60015
+    at t (https://replbox.repl.it/public/replbox_web_project.0cb74d55e36ba66c4ff5.bundle.js:740:60055)
+    at e.P [as expectationResultFactory] (https://replbox.repl.it/public/replbox_web_project.0cb74d55e36ba66c4ff5.bundle.js:740:43908)
+    at e.addExpectationResult (https://replbox.repl.it/public/replbox_web_project.0cb74d55e36ba66c4ff5.bundle.js:740:39360)
+    at t.r [as addExpectationResult] (https://replbox.repl.it/public/replbox_web_project.0cb74d55e36ba66c4ff5.bundle.js:740:43077)
+    at t.toHaveCss (https://replbox.repl.it/public/replbox_web_project.0cb74d55e36ba66c4ff5.bundle.js:740:59382)
+    at eval (eval at <anonymous> (https://replbox.repl.it/public/replbox_web_project.0cb74d55e36ba66c4ff5.bundle.js:323:8271), <anonymous>:4:20)
+    at https://replbox.repl.it/public/replbox_web_project.0cb74d55e36ba66c4ff5.bundle.js:740:82819
+    at n.run (https://replbox.repl.it/public/replbox_web_project.0cb74d55e36ba66c4ff5.bundle.js:740:83043)
+    at n.execute (https://replbox.repl.it/public/replbox_web_project.0cb74d55e36ba66c4ff5.bundle.js:740:81814)
+    at e.L [as queueRunnerFactory] (https://replbox.repl.it/public/replbox_web_project.0cb74d55e36ba66c4ff5.bundle.js:740:44483)
+    at e.execute (https://replbox.repl.it/public/replbox_web_project.0cb74d55e36ba66c4ff5.bundle.js:740:40102)
+    at e.fn (https://replbox.repl.it/public/replbox_web_project.0cb74d55e36ba66c4ff5.bundle.js:740:92930)
+    at https://replbox.repl.it/public/replbox_web_project.0cb74d55e36ba66c4ff5.bundle.js:740:82753
+    at n.run (https://replbox.repl.it/public/replbox_web_project.0cb74d55e36ba66c4ff5.bundle.js:740:83043)
+    at n.execute (https://replbox.repl.it/public/replbox_web_project.0cb74d55e36ba66c4ff5.bundle.js:740:81814)
+    at L (https://replbox.repl.it/public/replbox_web_project.0cb74d55e36ba66c4ff5.bundle.js:740:44483)
+    at e.fn (https://replbox.repl.it/public/replbox_web_project.0cb74d55e36ba66c4ff5.bundle.js:740:92748)
+    at https://replbox.repl.it/public/replbox_web_project.0cb74d55e36ba66c4ff5.bundle.js:740:82753
+    at n.run (https://replbox.repl.it/public/replbox_web_project.0cb74d55e36ba66c4ff5.bundle.js:740:83043)
+    at n.execute (https://replbox.repl.it/public/replbox_web_project.0cb74d55e36ba66c4ff5.bundle.js:740:81814)
+    at L (https://replbox.repl.it/public/replbox_web_project.0cb74d55e36ba66c4ff5.bundle.js:740:44483)
+    at t.execute (https://replbox.repl.it/public/replbox_web_project.0cb74d55e36ba66c4ff5.bundle.js:740:93482)
+    at execute (https://replbox.repl.it/public/replbox_web_project.0cb74d55e36ba66c4ff5.bundle.js:740:45284)
+    at https://replbox.repl.it/public/replbox_web_project.0cb74d55e36ba66c4ff5.bundle.js:323:8328
+Close
